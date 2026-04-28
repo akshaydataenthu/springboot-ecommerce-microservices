@@ -611,11 +611,4 @@ Removing ecommerce-microservice-backend-app_favourite-service-container_1 ... do
 Removing network ecommerce-microservice-backend-app_default
 ```
 ### The End
-In the end, I hope you enjoyed the application and find it useful, as I did when I was developing it. 
-If you would like to enhance, please: 
-- **Open PRs**, 
-- Give **feedback**, 
-- Add **new suggestions**, and
-- Finally, give it a 🌟.
 
-*Happy Coding ...* 🙂
